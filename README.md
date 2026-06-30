@@ -57,6 +57,8 @@ The language model is responsible for two things only: classifying the email and
 
 This keeps the system predictable: if something goes wrong, the failure is traceable to a specific step rather than buried inside an opaque AI decision.
 
+![Gmail Automation – System Architecture](Gmail Automation Architecture Upload Image.png)
+
 ---
 
 ## Architecture Decisions
