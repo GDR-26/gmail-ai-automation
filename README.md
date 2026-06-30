@@ -34,7 +34,7 @@ This workflow explores how far a single classification and drafting step can go 
 
 ---
 
-## Core Workflow
+## Workflow
 
 1. A new email arrives in Gmail.
 2. The Gmail Trigger starts the workflow.
@@ -47,7 +47,7 @@ This workflow explores how far a single classification and drafting step can go 
 
 ---
 
-## System Architecture
+## Architecture
 
 The workflow follows the same separation of concerns used across my AI automation projects:
 
